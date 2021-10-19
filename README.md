@@ -6,4 +6,6 @@ To Do:
 1) Use TerraForm to provision Security Groups, EC2 instance
 2) Use Terraform to provision EKS
 3) Use Ansible to configure EC2 instance with GitLab
-4) stuff and then eventually more stuff
+4) Set up Git-Runners
+5) Make smoke tests
+6) stuff and then eventually more stuff
